@@ -1,0 +1,12 @@
+D:\Visual Studio\MDK0102\DemoExam\DemoExam\bin\Debug\DemoExam.exe.config
+D:\Visual Studio\MDK0102\DemoExam\DemoExam\bin\Debug\DemoExam.exe
+D:\Visual Studio\MDK0102\DemoExam\DemoExam\bin\Debug\DemoExam.pdb
+D:\Visual Studio\MDK0102\DemoExam\DemoExam\obj\Debug\DemoExam.csproj.AssemblyReference.cache
+D:\Visual Studio\MDK0102\DemoExam\DemoExam\obj\Debug\DemoExam.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\MDK0102\DemoExam\DemoExam\obj\Debug\DemoExam.AuthorizationForm.resources
+D:\Visual Studio\MDK0102\DemoExam\DemoExam\obj\Debug\DemoExam.BasicForm.resources
+D:\Visual Studio\MDK0102\DemoExam\DemoExam\obj\Debug\DemoExam.Properties.Resources.resources
+D:\Visual Studio\MDK0102\DemoExam\DemoExam\obj\Debug\DemoExam.csproj.GenerateResource.cache
+D:\Visual Studio\MDK0102\DemoExam\DemoExam\obj\Debug\DemoExam.csproj.CoreCompileInputs.cache
+D:\Visual Studio\MDK0102\DemoExam\DemoExam\obj\Debug\DemoExam.exe
+D:\Visual Studio\MDK0102\DemoExam\DemoExam\obj\Debug\DemoExam.pdb
