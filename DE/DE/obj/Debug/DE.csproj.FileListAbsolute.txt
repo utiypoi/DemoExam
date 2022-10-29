@@ -1,0 +1,9 @@
+C:\Users\zernova.ea0799\Documents\SharpDevelop Projects\DE\DE\bin\Debug\DE.exe.config
+C:\Users\zernova.ea0799\Documents\SharpDevelop Projects\DE\DE\bin\Debug\DE.exe
+C:\Users\zernova.ea0799\Documents\SharpDevelop Projects\DE\DE\bin\Debug\DE.pdb
+C:\Users\zernova.ea0799\Documents\SharpDevelop Projects\DE\DE\obj\Debug\DE.csprojResolveAssemblyReference.cache
+C:\Users\zernova.ea0799\Documents\SharpDevelop Projects\DE\DE\obj\Debug\DE.MainForm.resources
+C:\Users\zernova.ea0799\Documents\SharpDevelop Projects\DE\DE\obj\Debug\DE.csproj.GenerateResource.Cache
+C:\Users\zernova.ea0799\Documents\SharpDevelop Projects\DE\DE\obj\Debug\DE.exe
+C:\Users\zernova.ea0799\Documents\SharpDevelop Projects\DE\DE\obj\Debug\DE.pdb
+C:\Users\zernova.ea0799\Documents\SharpDevelop Projects\DE\DE\obj\Debug\DE.FormMain.resources
